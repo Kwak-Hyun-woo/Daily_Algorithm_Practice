@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BOJ.iml" filepath="$PROJECT_DIR$/.idea/BOJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Gesture_Recognition/.idea/Gesture_Recognition.iml" filepath="$PROJECT_DIR$/../../Gesture_Recognition/.idea/Gesture_Recognition.iml" />
     </modules>
   </component>
 </project>
