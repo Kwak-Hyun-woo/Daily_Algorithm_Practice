@@ -1,4 +1,7 @@
-a = ["abdsdfsd", 'sdfsdfs']
-b = []
-b.append(a[0][0:4])
-print(b)
+a = input()
+count = 0
+for i in a:
+    if count % 10 == 0:
+        print()
+    print(i, end = '')
+    count += 1
